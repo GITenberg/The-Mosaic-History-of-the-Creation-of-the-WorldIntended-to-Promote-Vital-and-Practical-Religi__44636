@@ -1,0 +1,40 @@
+_repo: The-Mosaic-History-of-the-Creation-of-the-WorldIntended-to-Promote-Vital-and-Practical-Religi__44636
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44636-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Wood, Thomas
+    alias: Wood, Thomas, Wesleyan minister
+    deathdate: 1826
+    gutenberg_agent_id: '42696'
+    url: http://www.gutenberg.org/2009/agents/42696
+  editor:
+    agent_name: Durbin, John P. (John Price)
+    aliases:
+    - Durbin, J. P.
+    - Durbin, John Price
+    birthdate: 1800
+    deathdate: 1876
+    gutenberg_agent_id: '42850'
+    url: http://www.gutenberg.org/2009/agents/42850
+description: ''
+gutenberg_issued: '2014-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Creation'
+- !lcsh 'Religion and science'
+- !lcsh 'Cosmology'
+- !lcsh 'Bible and science'
+title: "The Mosaic History of the Creation of the World\r\nIllustrated by Discoveries\
+  \ and Experiments Derived from the Present Enlightened State of Science; With Reflections,\
+  \ Intended to Promote Vital and Practical Religion"
+url: http://www.gutenberg.org/ebooks/44636
