@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '42850'
     url: http://www.gutenberg.org/2009/agents/42850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44636#The-Mosaic-History-of-the-Creation-of-the-WorldIntended-to-Promote-Vital-and-Practical-Religi_
 gutenberg_issued: '2014-01-11'
 gutenberg_type: Text
 identifiers:
